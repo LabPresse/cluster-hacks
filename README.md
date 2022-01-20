@@ -11,8 +11,8 @@ Where we keep a list of handy tricks/templates.
 
 **Q**: How do I submit to our partition?
 
-**A**:
+**A**: `-p spressecpu1 -q wildfire` 
 
 **Q**: How do I add more time to a running job?
 
-**A**: 
+**A**: Send a request on slack in the rc-support channel.
