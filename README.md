@@ -11,7 +11,7 @@ Where we keep a list of handy tricks/templates.
 
 **Q**: How do I submit to our partition?
 
-**A**: `-p spressecpu1 -q wildfire` 
+**A**: `-p spressecpu1 -q spresse` 
 
 **Q**: How do I add more time to a running job?
 
